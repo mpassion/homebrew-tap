@@ -1,6 +1,6 @@
 cask "unblockd" do
-  version "0.9.1"
-  sha256 "6d2d6544cf7a7f4441c1adaab0932ffb47bfae090faeb00c09d59706e609d2c0"
+  version "0.9.2"
+  sha256 "e2b4f25adeba77cdff6708cd3dcb44816e3a34e16b4efc64bf022b1b96298efa"
 
   url "https://github.com/mpassion/unblockd/releases/download/v#{version}/Unblockd-#{version}.zip"
   name "Unblockd"
